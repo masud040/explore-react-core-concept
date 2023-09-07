@@ -1,0 +1,14 @@
+.box {
+  border: 4px solid tomato;
+  border-radius: 20px;
+  padding: 15px;
+  margin: 20px;
+  text-align: start;
+}
+
+.friend {
+  border: 2px solid rebeccapurple;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 20px;
+}
